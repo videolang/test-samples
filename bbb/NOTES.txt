@@ -1,0 +1,9 @@
+Samples taken from big buck bunny, as found here:
+
+http://bbb3d.renderfarming.net/download.html
+
+Specifically the following file:
+
+http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4
+
+This movie is released under a CC-BY license.
